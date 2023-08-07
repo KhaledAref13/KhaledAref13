@@ -1,8 +1,11 @@
 <h1 align="center">Hello There 👋 I'm Khaled Al Nabaheen</h1>
 
 <h2>About Me:</h2>
-⭐ 
-
+<p>⭐ I'm Khaled Aref Al Nabaheen.</p>
+<p>⭐ Junior Full Stack JavaScript Developer.</p>
+<p>⭐ Student at <a href="https://gazaskygeeks.com/">Gaza Sky Geeks</a> of <a href="https://gazaskygeeks.com/coders-career-accelerator-course/">Career Accelerator Program</a></p>
+<p>⭐ Graduated from Khan Younis Training College <sup><b>KYTC</b></sup> Department of Electronic Business Management.</p>
+<hr>
 <h2>Languages & Tools:</h2>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,5 +55,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+<h2>Statistics:</h2>
+
 <p align="center"><img width="50%" src='https://github-readme-stats.vercel.app/api?username=KhaledAref13&show_icons=true&theme=transparent'></p>
-<p align="center"><img width="45%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAref13&layout=compact&theme=transparent'></p>
+<p align="center"><img width="50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAref13&layout=compact&theme=transparent'></p>
