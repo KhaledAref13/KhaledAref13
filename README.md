@@ -60,3 +60,8 @@
 <p align="center"><img width="50%" src='https://github-readme-stats.vercel.app/api?username=KhaledAref13&show_icons=true&theme=transparent'></p>
 <p align="center"><img width="50%" src='https://streak-stats.demolab.com/?user=KhaledAref13&theme=transparent'></p>
 <p align="center"><img width="50%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAref13&layout=compact&theme=transparent'></p>
+
+<h2>Contact Me:</h2>
+
+<a href='https://www.facebook.com/profile.php?id=100087556942877'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="mailto:khalednabaheen8@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
