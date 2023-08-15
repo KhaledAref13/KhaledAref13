@@ -2,7 +2,7 @@
 
 <h2>About Me:</h2>
 <p>⭐ I'm Khaled Aref Al Nabaheen.</p>
-<p>⭐ Junior Full Stack JavaScript Developer.</p>
+<p>⭐ Junior Web Developer.</p>
 <p>⭐ Student at <a href="https://gazaskygeeks.com/">Gaza Sky Geeks</a> of <a href="https://gazaskygeeks.com/coders-career-accelerator-course/">Career Accelerator Program</a></p>
 <p>⭐ Graduated from Khan Younis Training College <sup><b>KYTC</b></sup> Department of Electronic Business Management.</p>
 <hr>
